@@ -4,9 +4,9 @@
 
 <b>Screenshots:</b>
 
-<img src="http://s04.justpaste.it/files/justpaste/d224/a9151321/file112.png" height="500px"/>
-<img src="http://s04.justpaste.it/files/justpaste/d224/a9151321/file113.png" height="500px"/>
-
+<img src="http://s02.justpaste.it/files/justpaste/d224/a9151321/file116.png" height="500px"/>
+<img src="http://s02.justpaste.it/files/justpaste/d224/a9151321/file114.png" height="500px"/>
+<img src="http://s02.justpaste.it/files/justpaste/d224/a9151321/file113.png" height="500px"/>
 
 <b>App Icon</b> (Erstellt mit http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html):
 
